@@ -1,0 +1,22 @@
+[
+    {
+        "Genero": "jazz",
+        "Artist":"Miles Davis",
+        "Instrument":"trompeta"
+    },
+    {
+        "Genero": "jazz",
+        "Artist":"Jhon Coltrane",
+        "Instrument":"Sax Sofon"
+    },
+    {
+        "Genero": "Rap",
+        "Artist":"Death Grips",
+        "Instrument":"Electronic"
+    },
+    {
+        "Genero": "Rap",
+        "Artist":"Kendrick Lamar",
+        "Instrument":"Electronic, and Raping"
+    }
+]
